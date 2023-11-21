@@ -1,14 +1,14 @@
-## Project Name
+# LIST OF UESER DETAILS APP
 
 This React-based single-page application is designed to showcase various facets of frontend development and API integration. It encompasses a range of tasks to demonstrate proficiency in building a responsive and intuitive user interface, utilizing reusable React components, integrating with external APIs, handling errors gracefully, and ensuring a smooth loading experience.
 
-## Table of Contents
+# Table of Contents
 
 1. Project Structure
 2. Running the Application
 3. Components Overview
 
-# Project Structure
+## Project Structure
 
 my-react-app/
 ├── node_modules/
@@ -33,7 +33,7 @@ my-react-app/
 ├── vite.config.js
 └── yarn.lock
 
-# Running the Application
+## Running the Application
 
 Follow these steps to run the application locally:
 
